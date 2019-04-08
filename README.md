@@ -2,6 +2,8 @@
 
 Hex Color Clock is a simple clock built with React. The background changes dynamically based on the current time, and users can change the format that the time is displayed in by clicking the clock itself.
 
+[Hex Color Clock](https://connerturmon.github.io/hex-color-clock/)
+
 <img alt="hex-color-clock" width="1400" src="https://i.imgur.com/ujg6SAD.png" />
 
 Hex Color Clock is a great project for beginners to recognize some cool features that React is capable of.
